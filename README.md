@@ -1,6 +1,6 @@
 # devfest_screen
 
-A I used in demonstrating ease of using Flutter in DevFest 2023, Lafia.
+A project I used in demonstrating ease of using Flutter in DevFest 2023, Lafia.
 
 ## Getting Started
 
