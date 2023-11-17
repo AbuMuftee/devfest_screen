@@ -1,6 +1,6 @@
 # devfest_screen
 
-A new Flutter project.
+A I used in demonstrating ease of using Flutter in DevFest 2023, Lafia.
 
 ## Getting Started
 
